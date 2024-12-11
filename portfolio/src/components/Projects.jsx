@@ -4,7 +4,6 @@ export default function Projects() {
       <section className="resume-section" id="projects">
         <div className="resume-section-content projects">
           <h2 className="mb-1">Projects</h2>
-          <div className="subheading mb-2">Frontend projects</div>
           <div className="d-flex row">
             <div
               className="card col-md-3 col-12 mx-2 mb-1"
